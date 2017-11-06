@@ -1,0 +1,2 @@
+# startup
+training few things
